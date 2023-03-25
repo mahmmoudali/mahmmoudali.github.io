@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="vuesax_linear_flash" data-name="vuesax/linear/flash" transform="translate(-428 -316)">
+    <g id="flash" transform="translate(428 316)">
+      <path id="Vector" d="M.912,7.521h2.06v4.8c0,1.12.607,1.347,1.347.507L9.366,7.094c.62-.7.36-1.28-.58-1.28H6.726v-4.8c0-1.12-.607-1.347-1.347-.507L.332,6.241C-.281,6.947-.021,7.521.912,7.521Z" transform="translate(3.148 1.333)" fill="#ffda1e"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H16V16H0Z" fill="#ffda1e" opacity="0"/>
+    </g>
+  </g>
+</svg>

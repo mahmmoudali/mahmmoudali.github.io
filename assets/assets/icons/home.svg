@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="vuesax_linear_home" data-name="vuesax/linear/home" transform="translate(-556 -188)">
+    <g id="vuesax_bold_home" data-name="vuesax/bold/home" transform="translate(556 188)">
+      <g id="home">
+        <path id="Vector" d="M26.472,8.414,17.346,1.078a5.226,5.226,0,0,0-6.339-.014L1.881,8.414a5.5,5.5,0,0,0-1.825,4.8L1.811,23.772A5.184,5.184,0,0,0,6.785,28H21.554a5.265,5.265,0,0,0,4.988-4.242L28.3,13.2A5.639,5.639,0,0,0,26.472,8.414ZM15.214,22.4a1.045,1.045,0,1,1-2.09,0V18.2a1.045,1.045,0,1,1,2.09,0Z" transform="translate(1.83 2)" fill="#76cc7a"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H32V32H0Z" transform="translate(32 32) rotate(180)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>
